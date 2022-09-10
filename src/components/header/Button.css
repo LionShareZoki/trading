@@ -1,0 +1,10 @@
+.button {
+  background: transparent;
+  border: transparent;
+  font-synthesis: none;
+  align-items: left;
+  margin: 0;
+  padding: 6px;
+  margin-left: 10px;
+  float: left;
+}
